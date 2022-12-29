@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Herzio/static/css/main.73f46ab9.css",
-    "main.js": "/Herzio/static/js/main.178b8d3b.js",
+    "main.js": "/Herzio/static/js/main.d1e6e387.js",
     "static/media/test.jpeg": "/Herzio/static/media/test.48f6eef25256d8adb148.jpeg",
     "static/media/CARTOGRAPHCF-HEAVYITALIC.OTF": "/Herzio/static/media/CARTOGRAPHCF-HEAVYITALIC.50b5f63cb560ad044034.OTF",
     "static/media/CARTOGRAPHCF-BOLDITALIC.OTF": "/Herzio/static/media/CARTOGRAPHCF-BOLDITALIC.530a4d1fdc17a8207c49.OTF",
@@ -25,10 +25,10 @@
     "static/media/GOTHAMBOLDITALIC.TTF": "/Herzio/static/media/GOTHAMBOLDITALIC.e1d2f7658509d2685be6.TTF",
     "index.html": "/Herzio/index.html",
     "main.73f46ab9.css.map": "/Herzio/static/css/main.73f46ab9.css.map",
-    "main.178b8d3b.js.map": "/Herzio/static/js/main.178b8d3b.js.map"
+    "main.d1e6e387.js.map": "/Herzio/static/js/main.d1e6e387.js.map"
   },
   "entrypoints": [
     "static/css/main.73f46ab9.css",
-    "static/js/main.178b8d3b.js"
+    "static/js/main.d1e6e387.js"
   ]
 }
